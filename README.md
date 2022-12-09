@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @some5npdef
+- 👀 I’m interested in automation everything
+- 🌱 I’m currently learning GIT, JS basics
+- 📫 How to reach me - telegram: @some5npdef
